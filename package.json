@@ -1,22 +1,22 @@
 {
-  "name": "goit-js-hw-10-food-service",
+  "name": "goit-js-hw-12-countries",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/SvetlanaMerkurieva/goit-js-hw-10-food-service",
+  "homepage": "https://github.com/SvetlanaMerkurieva/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SvetlanaMerkurieva/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/SvetlanaMerkurieva/goit-js-hw-12-countries.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SvetlanaMerkurieva/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/SvetlanaMerkurieva/goit-js-hw-12-countries/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
